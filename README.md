@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Job Gian Dispo, currently a student in PHINMA University of Pangasinan.<br>I aspire to be a great software developer in the near future
+Hello I'm Job Gian Dispo.<br>I aspire to be a great software developer in the near future
 
 
 ## 🌐 Socials:
