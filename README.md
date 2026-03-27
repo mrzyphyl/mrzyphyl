@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello I'm Job Gian Dispo.<br>I'm currently working as a Systems Engineer in a tech firm.<br>I want to expand my knowledge in the Software Development industry
+Hello I'm Job Gian Dispo.<br>I'm currently working as a Mid Level Backend Engineer in a tech firm.<br>I want to expand my knowledge in the Software Development industry
 
 
 ## 🌐 Socials:
